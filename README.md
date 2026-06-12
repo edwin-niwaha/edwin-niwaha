@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edwin Niwaha
 
-### Full-Stack Software Developer | Finance & IT Professional | Founder of Perpetual Tech
+### Full-Stack Software Developer | Finance & IT Professional | Founder of Perpetual Labs
 
 I build scalable digital solutions for businesses, financial institutions, nonprofits, and emerging markets. My work focuses on practical software that improves operations, simplifies workflows, and creates measurable impact across finance, agriculture, e-commerce, and social development.
 
