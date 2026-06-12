@@ -1,95 +1,102 @@
-# 👋 Hi, I'm Edwin N!waha
+# 👋 Hi, I'm Edwin Niwaha
 
-### Full-Stack Developer | Finance & IT Professional | Founder of Perpetual Tech
+### Full-Stack Software Developer | Finance & IT Professional | Founder of Perpetual Tech
 
-I am a passionate software developer and technology strategist dedicated to building scalable digital solutions that solve real-world challenges across business, finance, agriculture, e-commerce, and nonprofit sectors.
+I build scalable digital solutions for businesses, financial institutions, nonprofits, and emerging markets. My work focuses on practical software that improves operations, simplifies workflows, and creates measurable impact across finance, agriculture, e-commerce, and social development.
+
+---
 
 ## 🚀 What I Do
 
-* Full-Stack Web Development
-* Django & Python Applications
-* React & Next.js Development
-* E-commerce Platforms
-* Financial & Accounting Systems
-* Loan Management Systems
-* NGO & Sponsorship Management Systems
-* Cloud Deployment & DevOps
+- Full-stack web application development
+- Django, Python, and REST API development
+- React and Next.js frontend development
+- E-commerce and payment integrations
+- Financial, accounting, and loan management systems
+- NGO, sponsorship, and donor management platforms
+- Cloud deployment, DevOps, and system optimization
+
+---
 
 ## 🛠️ Tech Stack
 
 ### Backend
-
-* Python
-* Django
-* Django REST Framework
-* Node.js
+- Python
+- Django
+- Django REST Framework
+- Node.js
 
 ### Frontend
+- React
+- Next.js
+- JavaScript
+- TypeScript
+- Bootstrap
+- Tailwind CSS
 
-* React
-* Next.js
-* JavaScript
-* TypeScript
-* Bootstrap
-* Tailwind CSS
-
-### Database
-
-* PostgreSQL
-* MySQL
-* SQL Server
+### Databases
+- PostgreSQL
+- MySQL
+- SQL Server
 
 ### Tools & Platforms
+- Git & GitHub
+- Docker
+- Redis
+- Celery
+- Flutterwave
+- AWS
+- Linux
 
-* Git & GitHub
-* Docker
-* Redis
-* Celery
-* Flutterwave
-* AWS
-* Linux
+---
 
 ## 🌟 Featured Projects
 
-### Jobell Store
+### 🛒 Jobell Store
+A modern e-commerce platform designed for online retail operations.
 
-Modern ecommerce platform with:
+**Key features:**
+- Inventory management
+- Order processing
+- Mobile money payments
+- Customer accounts
+- Analytics dashboard
 
-* Inventory Management
-* Order Processing
-* Mobile Money Payments
-* Customer Accounts
-* Analytics Dashboard
+### 🤝 Sponsorship MIS
+A comprehensive management information system for NGOs and sponsorship programs.
 
-### Sponsorship MIS
+**Key features:**
+- Child sponsorship tracking
+- Donor management
+- Automated receipts
+- Impact reporting
 
-Comprehensive NGO management system featuring:
+### 💰 FinCore
+An accounting and microfinance management platform for financial institutions.
 
-* Child Sponsorship Tracking
-* Donor Management
-* Automated Receipts
-* Impact Reporting
+**Key features:**
+- Loan management
+- Savings management
+- Financial reporting
+- Role-based access control
 
-### FinCore
+---
 
-Accounting and Microfinance Management Platform featuring:
+## 📈 GitHub Stats
 
-* Loans Management
-* Savings Management
-* Financial Reporting
-* Role-Based Access Control
+![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwin-niwaha&show_icons=true&count_private=true)
 
-## 📈 GitHub Statistics
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-niwaha&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwin-niwaha\&show_icons=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-niwaha\&layout=compact)
+---
 
 ## 🌍 Connect With Me
 
-* Website: https://perpetualict.com
-* LinkedIn: https://linkedin.com/in/edwin-niwaha-155089100
-* X: https://x.com/edwinniwaha
+- Website: [perpetualict.com](https://perpetual-web-vert.vercel.app/)
+- LinkedIn: [Edwin Niwaha](https://linkedin.com/in/edwin-niwaha-155089100)
+- X: [@edwinniwaha](https://x.com/edwinniwaha)
+
+---
 
 ## 📍 Location
 
@@ -97,4 +104,4 @@ Kampala, Uganda
 
 ---
 
-> Building technology that creates meaningful societal transformation.
+> Building technology that solves real problems and creates meaningful societal transformation.
