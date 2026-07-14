@@ -1,107 +1,158 @@
 # 👋 Hi, I'm Edwin Niwaha
 
-### Full-Stack Software Developer | Finance & IT Professional | Founder of Perpetual Labs
+## 🚀A Full Stack Software Engineer | Python • Django • Node.js • React • Next.js
 
-I build scalable digital solutions for businesses, financial institutions, nonprofits, and emerging markets. My work focuses on practical software that improves operations, simplifies workflows, and creates measurable impact across finance, agriculture, e-commerce, and social development.
+I'm passionate about building scalable, secure, and high-performance software that solves real-world problems.
 
----
+Over the past 10+ years, I've designed and developed enterprise applications across **Finance, FinTech, NGOs, Healthcare, E-commerce, and Business Management**, helping organizations streamline operations through modern technology.
 
-## 🚀 What I Do
-
-- Full-stack web application development
-- Django, Python, and REST API development
-- React and Next.js frontend development
-- E-commerce and payment integrations
-- Financial, accounting, and loan management systems
-- NGO, sponsorship, and donor management platforms
-- Cloud deployment, DevOps, and system optimization
+Currently building innovative products at **Perpetual Labs**.
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
 ### Backend
 - Python
 - Django
 - Django REST Framework
 - Node.js
+- Express.js
+- REST APIs
+- Celery
+- Redis
 
 ### Frontend
 - React
 - Next.js
-- JavaScript
+- React Native
+- JavaScript (ES6+)
 - TypeScript
-- Bootstrap
+- HTML5
+- CSS3
 - Tailwind CSS
+- Bootstrap
 
 ### Databases
 - PostgreSQL
 - MySQL
+- MongoDB
 - SQL Server
 
-### Tools & Platforms
-- Git & GitHub
+### DevOps & Cloud
 - Docker
-- Redis
-- Celery
-- Flutterwave
-- AWS
+- Git & GitHub
 - Linux
+- CI/CD
+- Railway
+- Vercel
+- AWS
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 Jobell Store
-A modern e-commerce platform designed for online retail operations.
+## 🏦 FinCore SACCO Platform
 
-**Key features:**
-- Inventory management
-- Order processing
-- Mobile money payments
-- Customer accounts
-- Analytics dashboard
+A modern digital banking solution for SACCOs and Microfinance Institutions.
 
-### 🤝 Sponsorship MIS
-A comprehensive management information system for NGOs and sponsorship programs.
+**Features**
 
-**Key features:**
-- Child sponsorship tracking
-- Donor management
-- Automated receipts
-- Impact reporting
-
-### 💰 FinCore
-An accounting and microfinance management platform for financial institutions.
-
-**Key features:**
-- Loan management
-- Savings management
-- Financial reporting
-- Role-based access control
+- Loan Management
+- Savings Management
+- Accounting
+- Member Management
+- Branch Management
+- Financial Reports
+- Role-Based Access Control
+- REST APIs
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Sponsorship MIS
 
-![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwin-niwaha&show_icons=true&count_private=true)
+https://sponsorwithpendeza.org/
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-niwaha&layout=compact)
+An enterprise platform for NGOs managing child sponsorship and donor relationships.
 
----
+**Features**
 
-## 🌍 Connect With Me
-
-- Website: [perpetualict.com](https://perpetual-web-vert.vercel.app/)
-- LinkedIn: [Edwin Niwaha](https://linkedin.com/in/edwin-niwaha-155089100)
-- X: [@edwinniwaha](https://x.com/edwinniwaha)
-
----
-
-## 📍 Location
-
-Kampala, Uganda
+- Child Sponsorship
+- Donor Management
+- Automated Receipts
+- Reporting & Analytics
+- Inventory Management
 
 ---
 
-> Building technology that solves real problems and creates meaningful societal transformation.
+## 🛒 Jobell E-Commerce
+
+https://jobellinc.com/
+
+A modern online shopping platform built for retail businesses.
+
+**Features**
+
+- Product Management
+- Mobile Money Payments
+- Inventory
+- Orders
+- Customer Accounts
+- Analytics Dashboard
+
+---
+
+## 👨‍💼 Human Resource Management System
+
+Enterprise HR solution featuring:
+
+- Employee Management
+- Leave Management
+- Payroll
+- Performance Reviews
+- Reports
+
+---
+
+# ⚡ What I Enjoy Building
+
+- Enterprise Software
+- SaaS Platforms
+- REST APIs
+- FinTech Solutions
+- E-commerce Platforms
+- Cloud Applications
+- Business Automation
+- AI-powered Applications
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=edwin-niwaha&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-niwaha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌍 Let's Connect
+
+🌐 Website: https://perpetual-web-vert.vercel.app/
+
+💼 LinkedIn: https://linkedin.com/in/edwin-niwaha-155089100
+
+📧 Email: ed107107@gmail.com
+
+🐦 X: https://x.com/edwinniwaha
+
+---
+
+# 💡 Philosophy
+
+> *"Great software isn't just about writing code—it's about solving problems, creating value, and building products that people love to use."*
+
+⭐ If you like my work, consider following me or starring one of my repositories!
