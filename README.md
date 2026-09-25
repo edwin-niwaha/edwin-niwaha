@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <img src="assets/edwin-avatar.png" width="300" alt="Illustrated portrait of Edwin Niwaha wearing glasses at his computer" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=0891B2&center=true&vCenter=true&width=600&lines=10%2B+years+building+enterprise+software;Python+%C2%B7+Django+%C2%B7+Node.js+%C2%B7+React;Turning+complex+workflows+into+simple+products" alt="10+ years building enterprise software with Python, Django, Node.js and React" />
 </p>
 
@@ -25,13 +30,13 @@
 
 ### 👨‍💻 About Me
 
-I build **secure, scalable software** that simplifies complex business operations.
+I turn complex business workflows into **secure, scalable web and mobile applications**.
 
-With **10+ years of experience**, I've delivered enterprise applications across **finance, FinTech, NGOs, healthcare, and e-commerce** — connecting reliable backend systems with intuitive web and mobile experiences.
+With **10+ years of experience** across finance, FinTech, NGOs, healthcare, and e-commerce, I connect reliable backend systems with intuitive user experiences.
 
-- 🛠️ **Currently:** Building products at **Perpetual Labs**
-- 🎯 **Focus:** Enterprise software, SaaS platforms, and business automation
-- 💡 **Interests:** FinTech, cloud applications, and AI-powered products
+- 🛠️ Building products at **Perpetual Labs**
+- 🎯 Focused on enterprise software, SaaS, and business automation
+- 💡 Interested in FinTech, cloud applications, and AI-powered products
 
 ### ⚙️ Technology
 
